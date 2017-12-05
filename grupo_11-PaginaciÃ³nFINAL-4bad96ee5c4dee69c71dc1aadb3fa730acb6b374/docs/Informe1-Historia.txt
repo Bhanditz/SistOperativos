@@ -1,0 +1,34 @@
+# Informe 1 – Historia de los sistemas operativos
+
+---
+
+## La primera generación (1945 a 1955): tubos al vacío
+
+   Fue la Segunda Guerra mundial la que estimuló la aparación de las primeras computadoras. 
+John Atanasoff y su estudiante Clifford Berry construyeron la que se conoce hoy día como la primera computadora digital funcional, en Iowa State University. Constaba de 300 tubos de vacío (bulbos). Al mismo tiempo en otras partes del mundo (Alemania, Inglaterra) también acurrian avances en la construcción de computadoras. Las primeras computadoras eran muy primitivas y tardaban segundos en realizar cálculos simples. En ese tiempo los lenguajes de programación y sistemas operativos eran todavía desconocidos. El trabajo de los programadores era muy tedioso y demoraba muchas horas. Por lo general las computadoras se utilizaban para realizar cálculos matemáticos.
+
+   Recién a principios de la decada del 50 se introdujeron las tarjetas perforadas lo que permitia escribir los programas en dichas tarjetas programables, aunque el proceso seguia siendo igual de tedioso.
+
+## La segunda generación (1955 a 1965): transistores y sistemas de procesamiento por lotes
+
+  Con la intruducción de los transistores a mediados de la década del 1950 se disparo la venta de computadoras a quienes pudieran pagarlas. Además se empiezan a separar los roles tales como diseñadores y programadores, mientras que antes el programador realizaba todas la tereas. El uso de estas maquinas era muy costoso ya que requeria refrigeración y personal especial para manejarlas.
+
+  Aparecen los primeros lenguajes de programación como Fortran. El proceso para realizar un trabajo consistia de un programador que escribía primero el programa en papel para luego pasarlo a las tarjetas perforadas, que eran manejados por los operadores de máquinas.
+
+  Ese proceso era muy costoso por lo que se implemento el sistema de procesamiento por lotes el cual consistía de diferentes máquinas que realizaban cada una un trabajo distinto.
+
+
+## La tercera generación (1965 a 1980): circuitos integrados y multiprogramación
+
+  La IBM 360 fue la primera linea de computadora en utilizar circuitos integrados, por lo cual podían ofrecer un buen precio/rendimiento comparado a las máquinas de la segunda generación. La idea era que toda la linea utilizara el mismo sistema operativo, lo cual tuvo mucho éxito.
+ 
+Realizar un sistema operativo que pudiera realizar todo tipo de tareas y funcionar en distintos modelos de la misma linea fue muy dificil, de hecho el software estaba lleno de errores y cada vez que se lanzaban nuevas versiones se corregian errores pero también se agregaban nuevos. Pero incluso con todos los errores las máquinas de esta generación dejaron satisfechos a la mayoría de sus clientes.
+ 
+  En esta generación también apareció el concepto de multiprogramación el cual permitia, por ejemplo, que cuando se estaba realizando un trabajo de E/S se pudiera aprovechar la CPU para realizar otra tarea. Para realizar esto se necesitaba de hardware especial, el cual la linea 360 incluía.
+
+
+## La cuarta generación (1980 a la fecha): las computadoras personales
+
+A principios de la década de 1980, IBM diseñó la IBM PC y empezó la busqueda de un sistema operativo para la computadora. El sistema que finalmente se usó fue el MS-DOS el cuál domino el mercado rápidamente. MS-DOS fue el sistema creado por Microsoft. A partir de ese momento los sistemas operativos empezaron a parecerse mas a los utilizados actualmente, con interfaces de usuario, tales como Windows xp/7/8/10, sistemas Unix y OSX.
+
+También en esta época empezó a surgir el crecimiento de los sistemas operativos en redes y sistemas distribuidos.
